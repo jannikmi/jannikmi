@@ -1,6 +1,6 @@
 ### Hi there
 
-I am Jannik, a computer engineering graduate with a strong background in machine learning, Python and scientific computing.
+I am Jannik, a computer engineering with a strong background in machine learning, Python and scientific computing.
 
 My interests include: algorithms, automation, AGI, complexity, computational geometry, logic, ML, numerics, optimisation and RL.
 
