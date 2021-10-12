@@ -2,7 +2,7 @@
 
 I am Jannik, a computer engineer with a strong background in machine learning, Python and scientific computing.
 
-My interests include: algorithms, automation, AGI, complexity theory, computational geometry, logic, machine learning, numerics, optimisation and reinforment learning.
+My interests include: algorithms, automation, AGI, computational geometry, hyperparameter optimization, machine learning and reinforment learning.
 
 :exclamation: I am currently looking for a **Machine Learning Engineer** position (Research, Python) in Berlin. 
 
