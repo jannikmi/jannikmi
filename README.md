@@ -4,7 +4,5 @@ I am Jannik, a computer engineer with a strong background in machine learning, P
 
 My interests include: algorithms, automation, AGI, computational geometry, hyperparameter optimization, machine learning and reinforment learning.
 
-:exclamation: I am currently looking for a **Machine Learning Engineer** position (Research, Python) in Berlin. 
-
 You can contact me on [LinkedIn](https://www.linkedin.com/in/jannik-michelfeit-546b7a181/) or via [Mail](mailto:github@michelfe.it).
  
