@@ -1,4 +1,4 @@
-### Hi there
+### Hi there 👋🏻
 
 I am Jannik, a machine learning engineer with a strong background in Python, hyperparameter optimisation, scientific computing and computer engineering.
 
@@ -7,6 +7,8 @@ I love to design and implement efficient algorithms especially in abstract domai
 My other interests include: AGI, computational geometry, knowledge representation and reasoning, machine and reinforment learning.
 
 With my open source projects I want to give back to the community I owe so much to.
+
+❗I am currently looking for an on-site Data Science / ML job in Berlin 🎓👨‍💻 ❗
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/jannik-michelfeit-546b7a181/) or via [Mail](mailto:github@michelfe.it).
  
