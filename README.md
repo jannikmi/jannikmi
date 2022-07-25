@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
-I am Jannik, a machine learning engineer with a strong background in Python, hyperparameter optimisation, scientific computing and computer engineering.
+I am Jannik, a machine learning engineer with a strong background in Python, hyperparameter optimisation and scientific computing.
 
 I love to design and implement efficient algorithms especially in abstract domains.
 
