@@ -8,7 +8,7 @@ My other interests include: AGI, computational geometry, knowledge representatio
 
 With my open source projects I want to give back to the community I owe so much to.
 
-❗I am currently looking for an on-site Data Science / ML job in Berlin 🎓👨‍💻 ❗
+❗I am currently looking for an on-site Machine Learning Engineering position in Berlin 🎓👨‍💻 ❗
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/jannik-michelfeit-546b7a181/) or via [Mail](mailto:github@michelfe.it).
  
