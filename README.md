@@ -8,5 +8,5 @@ My other interests include: AGI, computational geometry, knowledge representatio
 
 With my open source projects I want to give back to the community I owe so much to.
 
-You can contact me on [LinkedIn](https://www.linkedin.com/in/jannik-michelfeit-546b7a181/) or via [Mail](mailto:github@michelfe.it).
+You can contact me on [LinkedIn](https://www.linkedin.com/in/jannik-michelfeit-546b7a181/)
  
